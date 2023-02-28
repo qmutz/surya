@@ -31,7 +31,7 @@
     "dot-object": "^1.7.0",
     "graphviz": "0.0.9",
     "jquery": "3.3.1",
-    "jsplumb": "2.7.13",
+    "jsplumb": "2.15.6",
     "sha1-file": "^1.0.1",
     "solidity-parser-antlr": "^0.4.2",
     "treeify": "^1.1.0",
